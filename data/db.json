@@ -1,0 +1,68 @@
+{
+  "doctors": [
+    {
+      "id": "doc1",
+      "name": "Dr Allen",
+      "specialist": "General Physician"
+    },
+    {
+      "id": "doc2",
+      "name": "Dr Harry",
+      "specialist": "ENT"
+    },
+    {
+      "id": "doc3",
+      "name": "Dr Soni",
+      "specialist": "Cardiologist"
+    },
+    {
+      "id": "doc4",
+      "name": "Dr Disuza",
+      "specialist": "Orthopaedic"
+    }
+  ],
+  "patients": [
+    {
+      "id": "3671",
+      "name": "hhhh",
+      "phone": "908765433",
+      "date": "2026-01-09",
+      "time": "19:28"
+    },
+    {
+      "id": "f241",
+      "name": "hhhh",
+      "phone": "908765433",
+      "date": "2026-01-09",
+      "time": "19:30"
+    },
+    {
+      "id": "87f9",
+      "name": "rimi",
+      "phone": "908765433",
+      "date": "2026-01-10",
+      "time": "21:55"
+    },
+    {
+      "id": "bc14",
+      "name": "hhhh",
+      "phone": "908765433",
+      "date": "2026-01-10",
+      "time": "23:19"
+    },
+    {
+      "id": "efc0",
+      "name": "hhhh",
+      "phone": "908765433",
+      "date": "2026-01-10",
+      "time": "03:17"
+    },
+    {
+      "id": "9862",
+      "name": "riya",
+      "phone": "908765433",
+      "date": "2026-01-10",
+      "time": "13:13"
+    }
+  ]
+}
